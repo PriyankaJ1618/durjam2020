@@ -4,6 +4,6 @@ Our team consists of Priyanka Jhooty, Danica Davies and Eman Abbasi. We are all 
 
 Music has been provided by Toby Cotton - (potentially link to socials)
 
-##Story
+## Story
 
 Paul the Goose has been captured by the evil krone Karen and is set to be cooked and eaten by her gang of entitled Boomers.
