@@ -4,6 +4,8 @@ AGSS_GOOSE --> AGSS.EXE
 
 Our team consists of Priyanka Jhooty, Danica Davies and Eman Abbasi. We are all students at Aston University going into our second year of study. For our submission we decided to use Unity, coding in C#, to create a game which has been named 'GOOSE' for some reason (although even stranger, the executable file of our game is AGSS.exe and I cannot, for the life of me, remember what AGSS stands for :/ )
 
+All files and assets used (and not used) have been uploaded - except for the main menu music, because the file is too big and GitHub doesn't like it.
+
 ## Story
 
 Set in a world where geese are (EA:rightfully, in my opinion) hated, we follow the story of one brave goose called Paul.
@@ -21,3 +23,7 @@ Inspiration for the game came from both the geese that can be found on Aston cam
 ## Special Thanks To
 
 Toby Cotton for letting us use his GCSE Music compositions as background music for our game!
+
+## Note
+
+Please do not use any of the images or audio files uploaded. Thank You :)
