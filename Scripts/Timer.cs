@@ -22,6 +22,7 @@ public class Timer : MonoBehaviour
         {
             Debug.Log("Time has run out!");
             isEnded = true;
+            timeRemaining = 0;
         }
 
         DisplayTime(timeRemaining);
