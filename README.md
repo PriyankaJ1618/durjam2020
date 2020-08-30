@@ -12,7 +12,7 @@ Paul the Goose has been captured by the evil krone Karen and is set to be cooked
 
 ## How to Play
 
-GOOSE is effectively an endless runner type game. While Paul makes his way to the Geese Rescue Center, he will have to duck underneath protestors and jump over children. Colliding with any obstacle in his way will lead to an instant Game Over.
+GOOSE is effectively an endless runner type game. While Paul makes his way to the Geese Rescue Center, he will have to duck underneath protestors and jump over children. Colliding with any obstacle in his way will lead to an instant Game Over. The game is time controlled - right now you will have to surviive for 30 seconds before the gates to the Goose Rescue Center will appear. Once they do, just hop on over! (Note: timer was set to 30 seconds for demo purposes - ordinarily it would be longer)
 
 ## Inspiration
 
