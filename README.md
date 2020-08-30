@@ -1,5 +1,7 @@
 # DurJam2020
 
+AGSS_GOOSE --> AGSS.EXE
+
 Our team consists of Priyanka Jhooty, Danica Davies and Eman Abbasi. We are all students at Aston University going into our second year of study. For our submission we decided to use Unity, coding in C#, to create a game which has been named 'GOOSE' for some reason (although even stranger, the executable file of our game is AGSS.exe and I cannot, for the life of me, remember what AGSS stands for :/ )
 
 ## Story
@@ -11,6 +13,10 @@ Paul the Goose has been captured by the evil krone Karen and is set to be cooked
 ## How to Play
 
 GOOSE is effectively an endless runner type game. While Paul makes his way to the Geese Rescue Center, he will have to duck underneath protestors and jump over children. Colliding with any obstacle in his way will lead to an instant Game Over.
+
+## Inspiration
+
+Inspiration for the game came from both the geese that can be found on Aston campus, but also the Goose we adopted for Danica's birthday called Paul! Paul the goose was severely mistreated before hatching his own escape plan and taken to an animal sanctuary, and so we decided to base our character on him :)
 
 ## Special Thanks To
 
