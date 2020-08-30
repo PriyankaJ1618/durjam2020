@@ -1,6 +1,6 @@
 # DurJam2020
 
-Our team consists of Priyanka Jhooty, Danica Davies and Eman Abbasi. We are all students at Aston University going into our second year of study. For our submission we decided to use Unity, coding in C#, to create a game which has been named 'GOOSE' for some reason.
+Our team consists of Priyanka Jhooty, Danica Davies and Eman Abbasi. We are all students at Aston University going into our second year of study. For our submission we decided to use Unity, coding in C#, to create a game which has been named 'GOOSE' for some reason (although even stranger, the executable file of our game is AGSS.exe and I cannot, for the life of me, remember what AGSS stands for :/ )
 
 ## Story
 
